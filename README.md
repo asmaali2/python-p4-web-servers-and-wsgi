@@ -46,6 +46,7 @@ Navigate to `localhost:8000` in your browser and you should see the following:
 https://curriculum-content.s3.amazonaws.com/python/python_httpserver_screenshot.png
 "http.server web page")
 
+
 `http.server` is a module in Python's standard library that creates a simple
 webpage that can respond to clients through an open URL and port. Run from the
 command line, it creates a navigable directory structure with URLs mimicking the
